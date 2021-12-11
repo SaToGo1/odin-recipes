@@ -1,0 +1,29 @@
+* {
+    background-color: #000;
+    color: #FFF;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.page1-main {
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.page1-sub {
+    padding-left: 44%;
+    text-align: left;
+    font-size: 20px;
+}
+
+.page2-back {
+    font-size: 10px;
+    text-align: left;
+    margin: 0%;
+    padding: 0%;
+}
+
+.page2-img {
+    height: auto;
+    width: 500px;
+}
